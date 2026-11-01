@@ -36,6 +36,10 @@ This project explores Microsoft Entra entitlement management, demonstrating how 
 ###  Adding groups and resources to a catalog
 <img width="1895" height="907" alt="adding groups and resources to a catalog" src="https://github.com/user-attachments/assets/3e0fa2c1-7679-4e88-ac32-f65561561196" />
 
+### enabling a catalog to be accessed
+<img width="1897" height="927" alt="enabling a catalog to be accessed" src="https://github.com/user-attachments/assets/a853c59a-2bda-4249-adbb-b0f72ccbd0d6" />
+
+
 
 ### Assigning Catalog Owner
  <img width="1917" height="906" alt="adding another catalog owner" src="https://github.com/user-attachments/assets/421917e8-15b6-4f09-9e1b-867166d656f3" />

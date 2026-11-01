@@ -30,12 +30,6 @@ This project demonstrates user identity administration in Microsoft Entra ID. It
 ![User creation](<img width="1912" height="917" alt="create new user" src="https://github.com/user-attachments/assets/fd4bc729-5d33-4429-8093-a44852d4c15d" />
 )
 
-### User Properties
-![User properties](screenshots/02-user-properties.png)
-
-### Account Management
-![Account management](screenshots/03-account-management.png)
-
 ## 🧪 Testing & Validation
 - Verified successful user creation.
 - Confirmed user properties were correctly configured.
